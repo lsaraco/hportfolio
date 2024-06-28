@@ -1,0 +1,854 @@
+{
+    "operations": {
+        "deposit": {
+            "2023-03-14": 100,
+            "2023-03-21": 2000,
+            "2023-05-25": 3093,
+            "2023-07-20": 3532,
+            "2023-09-19": 173,
+            "2024-01-02": 1150,
+            "2024-05-17": 2720,
+            "2024-05-31": 8300
+        },
+        "withdrawal": {}
+    },
+    "status": {
+        "last": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 0,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 20,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 10,
+                "ALGM": 0,
+                "LIQUIDITY": 16591
+            }
+        },
+        "2024-06-27": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 0,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 20,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 10,
+                "ALGM": 0,
+                "LIQUIDITY": 16591
+            }
+        },
+        "2024-06-24": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 8,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 20,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 10,
+                "ALGM": 0,
+                "LIQUIDITY": 14885
+            }
+        },
+        "2024-06-20": {
+            "stocks": {
+                "MSFT": 4,
+                "AAPL": 8,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 20,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 10,
+                "ALGM": 0,
+                "LIQUIDITY": 13094
+            }
+        },
+        "2024-06-11": {
+            "stocks": {
+                "MSFT": 4,
+                "AAPL": 8,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 10,
+                "ALGM": 0,
+                "LIQUIDITY": 16404
+            }
+        },
+        "2024-06-07": {
+            "stocks": {
+                "MSFT": 4,
+                "AAPL": 0,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 10,
+                "ALGM": 0,
+                "LIQUIDITY": 17983
+            }
+        },
+        "2024-06-05": {
+            "stocks": {
+                "MSFT": 4,
+                "AAPL": 0,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 0,
+                "ALGM": 0,
+                "LIQUIDITY": 19189
+            }
+        },
+        "2024-05-31": {
+            "stocks": {
+                "MSFT": 4,
+                "AAPL": 33,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 0,
+                "ALGM": 0,
+                "LIQUIDITY": 12626
+            }
+        },
+        "2024-05-24": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 3,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 0,
+                "ALGM": 0,
+                "LIQUIDITY": 10858
+            }
+        },
+        "2024-05-22": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 0,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 0,
+                "ALGM": 0,
+                "LIQUIDITY": 11429
+            }
+        },
+        "2024-05-17": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 0,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 0,
+                "ALGM": 0,
+                "LIQUIDITY": 12288
+            }
+        },
+        "2024-05-15": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 14,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 0,
+                "ALGM": 0,
+                "LIQUIDITY": 6895
+            }
+        },
+        "2024-05-07": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 14,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 2,
+                "ALGM": 0,
+                "LIQUIDITY": 5000
+            }
+        },
+        "2024-05-06": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 14,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 0,
+                "ALGM": 0,
+                "LIQUIDITY": 6800
+            }
+        },
+        "2024-04-25": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 14,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 10,
+                "NVDA": 1,
+                "ALGM": 0,
+                "LIQUIDITY": 5880
+            }
+        },
+        "2024-03-26": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 14,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 10,
+                "TSLA": 10,
+                "NVDA": 1,
+                "ALGM": 0,
+                "LIQUIDITY": 5260
+            }
+        },
+        "2024-03-06": {
+            "stocks": {
+                "MSFT": 3,
+                "AAPL": 14,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 10,
+                "TSLA": 10,
+                "NVDA": 1,
+                "ALGM": 0,
+                "LIQUIDITY": 4000
+            }
+        },
+        "2024-02-20": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 9,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 10,
+                "TSLA": 10,
+                "NVDA": 1,
+                "LIQUIDITY": 6050
+            }
+        },
+        "2024-02-05": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 9,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 6,
+                "NVDA": 1,
+                "LIQUIDITY": 7430
+            }
+        },
+        "2024-01-26": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 9,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 6,
+                "NVDA": 1,
+                "LIQUIDITY": 6621
+            }
+        },
+        "2024-01-17": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 9,
+                "TSM": 0,
+                "ASML": 1,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 6,
+                "NVDA": 1,
+                "LIQUIDITY": 5752
+            }
+        },
+        "2024-01-08": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 9,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 0,
+                "TSLA": 1,
+                "NVDA": 1,
+                "LIQUIDITY": 7536
+            }
+        },
+        "2024-01-05": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 9,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 38,
+                "TSLA": 1,
+                "NVDA": 1,
+                "LIQUIDITY": 5252
+            }
+        },
+        "2024-01-02": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 6,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 38,
+                "NVDA": 1,
+                "LIQUIDITY": 6023
+            }
+        },
+        "2024-01-01": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 6,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 38,
+                "NVDA": 1,
+                "LIQUIDITY": 4873
+            }
+        },
+        "2023-12-14": {
+            "stocks": {
+                "MSFT": 2,
+                "AAPL": 6,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 38,
+                "NVDA": 1,
+                "LIQUIDITY": 4873
+            }
+        },
+        "2023-12-13": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 0,
+                "ASML": 0,
+                "AMD": 0,
+                "KO": 38,
+                "NVDA": 1,
+                "LIQUIDITY": 5604
+            }
+        },
+        "2023-12-12": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 0,
+                "ASML": 1,
+                "AMD": 0,
+                "KO": 38,
+                "NVDA": 1,
+                "LIQUIDITY": 4872
+            }
+        },
+        "2023-12-01": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 0,
+                "ASML": 1,
+                "AMD": 0,
+                "KO": 38,
+                "NVDA": 0,
+                "LIQUIDITY": 5351
+            }
+        },
+        "2023-11-30": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 0,
+                "ASML": 1,
+                "AMD": 0,
+                "KO": 38,
+                "LIQUIDITY": 5351
+            }
+        },
+        "2023-11-09": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 0,
+                "KO": 38,
+                "LIQUIDITY": 4576
+            }
+        },
+        "2023-11-06": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 0,
+                "KO": 38,
+                "LIQUIDITY": 4576
+            }
+        },
+        "2023-11-05": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 38,
+                "LIQUIDITY": 4019
+            }
+        },
+        "2023-10-30": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 38,
+                "LIQUIDITY": 665
+            }
+        },
+        "2023-10-26": {
+            "stocks": {
+                "MSFT": 0,
+                "AAPL": 6,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 38,
+                "LIQUIDITY": 4006
+            }
+        },
+        "2023-10-25": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 38,
+                "LIQUIDITY": 600
+            }
+        },
+        "2023-10-10": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 0,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 38,
+                "LIQUIDITY": 600
+            }
+        },
+        "2023-10-09": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 38,
+                "LIQUIDITY": 58
+            }
+        },
+        "2023-09-19": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 38,
+                "NVDA": 0,
+                "LIQUIDITY": 58
+            }
+        },
+        "2023-09-18": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 35,
+                "NVDA": 0,
+                "LIQUIDITY": 60
+            }
+        },
+        "2023-09-01": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 28,
+                "NVDA": 1,
+                "LIQUIDITY": 32
+            }
+        },
+        "2023-08-31": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 17,
+                "NVDA": 1,
+                "LIQUIDITY": 680
+            }
+        },
+        "2023-08-23": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "INTC": 0,
+                "KO": 17,
+                "NVDA": 1,
+                "LIQUIDITY": 685
+            }
+        },
+        "2023-08-22": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "INTC": 15,
+                "KO": 17,
+                "NVDA": 1,
+                "LIQUIDITY": 178
+            }
+        },
+        "2023-08-17": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 17,
+                "NVDA": 1,
+                "INTC": 15,
+                "LIQUIDITY": 178
+            }
+        },
+        "2023-08-15": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "TSM": 8,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 17,
+                "NVDA": 1,
+                "LIQUIDITY": 663
+            }
+        },
+        "2023-08-11": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "MCD": 0,
+                "TSM": 1,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 17,
+                "NVDA": 1,
+                "LIQUIDITY": 1306
+            }
+        },
+        "2023-08-10": {
+            "stocks": {
+                "MSFT": 10,
+                "AAPL": 6,
+                "TSLA": 2,
+                "MCD": 2,
+                "TSM": 1,
+                "ASML": 1,
+                "AMD": 5,
+                "KO": 17,
+                "NVDA": 1,
+                "LIQUIDITY": 730
+            }
+        },
+        "2023-08-09": {
+            "stocks": {
+                "TSM": 1,
+                "AMD": 5,
+                "MSFT": 10,
+                "TSLA": 2,
+                "INTC": 6,
+                "NVDA": 1,
+                "ASML": 3,
+                "AAPL": 2,
+                "KO": 17,
+                "MCD": 2,
+                "LIQUIDITY": 71
+            }
+        },
+        "2023-08-02": {
+            "stocks": {
+                "TSM": 1,
+                "AMD": 5,
+                "MSFT": 10,
+                "TSLA": 2,
+                "INTC": 6,
+                "NVDA": 1,
+                "ASML": 3,
+                "AAPL": 1,
+                "KO": 17,
+                "MCD": 2,
+                "LIQUIDITY": 43
+            }
+        },
+        "2023-07-26": {
+            "stocks": {
+                "TSM": 1,
+                "AMD": 2,
+                "MSFT": 7,
+                "TSLA": 2,
+                "INTC": 6,
+                "NVDA": 1,
+                "ASML": 3,
+                "AAPL": 1,
+                "KO": 34,
+                "MCD": 2,
+                "LIQUIDITY": 295
+            }
+        },
+        "2023-07-25": {
+            "stocks": {
+                "TSM": 1,
+                "AMD": 2,
+                "MSFT": 3,
+                "TSLA": 2,
+                "INTC": 6,
+                "NVDA": 1,
+                "ASML": 3,
+                "AAPL": 1,
+                "KO": 34,
+                "MCD": 2,
+                "LIQUIDITY": 1639
+            }
+        },
+        "2023-07-06": {
+            "stocks": {
+                "TSM": 1,
+                "AMD": 2,
+                "MSFT": 2,
+                "TSLA": 2,
+                "INTC": 6,
+                "NVDA": 1,
+                "ASML": 1,
+                "KO": 34,
+                "MCD": 2,
+                "LIQUIDITY": 26
+            }
+        },
+        "2023-06-22": {
+            "stocks": {
+                "TSM": 1,
+                "AMD": 2,
+                "MSFT": 2,
+                "TSLA": 1,
+                "INTC": 3,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 0,
+                "KO": 32,
+                "MCD": 2,
+                "LIQUIDITY": 523
+            }
+        },
+        "2023-06-13": {
+            "stocks": {
+                "TSM": 1,
+                "MSFT": 2,
+                "TSLA": 1,
+                "INTC": 3,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 0,
+                "KO": 32,
+                "MCD": 2,
+                "LIQUIDITY": 0
+            }
+        },
+        "2023-06-12": {
+            "stocks": {
+                "TSM": 1,
+                "MSFT": 2,
+                "TSLA": 1,
+                "INTC": 3,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 0,
+                "KO": 32,
+                "MCD": 1,
+                "LIQUIDITY": 0
+            }
+        },
+        "2023-06-05": {
+            "stocks": {
+                "TSM": 1,
+                "MSFT": 1,
+                "TSLA": 1,
+                "INTC": 3,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 0,
+                "KO": 32,
+                "MCD": 1,
+                "LIQUIDITY": 0
+            }
+        },
+        "2023-05-26": {
+            "stocks": {
+                "TSM": 1,
+                "INTC": 3,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 0,
+                "KO": 32,
+                "MCD": 1,
+                "LIQUIDITY": 0
+            }
+        },
+        "2023-05-25": {
+            "stocks": {
+                "TSM": 1,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 0,
+                "KO": 7,
+                "LIQUIDITY": 0
+            }
+        },
+        "2023-05-24": {
+            "stocks": {
+                "TSM": 1,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 4,
+                "KO": 7,
+                "LIQUIDITY": 0
+            }
+        },
+        "2023-03-22": {
+            "stocks": {
+                "TSM": 1,
+                "NVDA": 1,
+                "ASML": 1,
+                "AAPL": 4,
+                "KO": 7,
+                "LIQUIDITY": 0
+            }
+        },
+        "2023-03-14": {
+            "stocks": {
+                "TSM": 1,
+                "LIQUIDITY": 800
+            }
+        }
+    },
+    "force_cost_basis": {
+        "MSFT": [
+            4,
+            1686
+        ],
+        "AAPL": [
+            8,
+            1579
+        ],
+        "TSLA": [
+            10,
+            2085
+        ],
+        "TSM": [
+            8,
+            733
+        ],
+        "ASML": [
+            1,
+            712
+        ],
+        "AMD": [
+            20,
+            3309
+        ],
+        "KO": [
+            10,
+            608
+        ],
+        "NVDA": [
+            10,
+            1206
+        ]
+    }
+}
